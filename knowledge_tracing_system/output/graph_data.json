@@ -1,0 +1,5951 @@
+{
+  "nodes": [
+    {
+      "id": "concept_1",
+      "name": "Box and Whisker",
+      "chapter": "Probability & Statistics",
+      "topic": "Box and Whisker",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_2",
+      "name": "Circle Graph",
+      "chapter": "Graphing",
+      "topic": "Circle Graph",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_4",
+      "name": "Histogram as Table or Graph",
+      "chapter": "Graphing",
+      "topic": "Histogram as Table or Graph",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_5",
+      "name": "Number Line",
+      "chapter": "Number Systems",
+      "topic": "Number Line",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_8",
+      "name": "Scatter Plot",
+      "chapter": "General Mathematics",
+      "topic": "Scatter Plot",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_9",
+      "name": "Stem and Leaf Plot",
+      "chapter": "General Mathematics",
+      "topic": "Stem and Leaf Plot",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_10",
+      "name": "Table",
+      "chapter": "General Mathematics",
+      "topic": "Table",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_11",
+      "name": "Venn Diagram",
+      "chapter": "General Mathematics",
+      "topic": "Venn Diagram",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_12",
+      "name": "Mean",
+      "chapter": "Probability & Statistics",
+      "topic": "Mean",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_13",
+      "name": "Median",
+      "chapter": "Probability & Statistics",
+      "topic": "Median",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_14",
+      "name": "Mode",
+      "chapter": "General Mathematics",
+      "topic": "Mode",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_15",
+      "name": "Range",
+      "chapter": "General Mathematics",
+      "topic": "Range",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_16",
+      "name": "Counting Methods",
+      "chapter": "General Mathematics",
+      "topic": "Counting Methods",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_17",
+      "name": "Probability of Two Distinct Events",
+      "chapter": "Probability & Statistics",
+      "topic": "Probability of Two Distinct Events",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_18",
+      "name": "Probability of a Single Event",
+      "chapter": "Probability & Statistics",
+      "topic": "Probability of a Single Event",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_21",
+      "name": "Interior Angles Figures with More than 3 Sides",
+      "chapter": "Geometry",
+      "topic": "Interior Angles Figures with More than 3 Sides",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_22",
+      "name": "Interior Angles Triangle",
+      "chapter": "Geometry",
+      "topic": "Interior Angles Triangle",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_24",
+      "name": "Congruence",
+      "chapter": "General Mathematics",
+      "topic": "Congruence",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_25",
+      "name": "Complementary and Supplementary Angles",
+      "chapter": "Geometry",
+      "topic": "Complementary and Supplementary Angles",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_26",
+      "name": "Angles on Parallel Lines Cut by a Transversal",
+      "chapter": "Geometry",
+      "topic": "Angles on Parallel Lines Cut by a Transversal",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_27",
+      "name": "Pythagorean Theorem",
+      "chapter": "General Mathematics",
+      "topic": "Pythagorean Theorem",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_32",
+      "name": "Nets of 3D Figures",
+      "chapter": "General Mathematics",
+      "topic": "Nets of 3D Figures",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_34",
+      "name": "Unit Conversion Within a System",
+      "chapter": "General Mathematics",
+      "topic": "Unit Conversion Within a System",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_35",
+      "name": "Effect of Changing Dimensions of a Shape Prportionally",
+      "chapter": "General Mathematics",
+      "topic": "Effect of Changing Dimensions of a Shape Prportionally",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_39",
+      "name": "Area Circle",
+      "chapter": "Geometry",
+      "topic": "Area Circle",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_40",
+      "name": "Circumference ",
+      "chapter": "General Mathematics",
+      "topic": "Circumference ",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_42",
+      "name": "Perimeter of a Polygon",
+      "chapter": "Geometry",
+      "topic": "Perimeter of a Polygon",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_46",
+      "name": "Calculations with Similar Figures",
+      "chapter": "General Mathematics",
+      "topic": "Calculations with Similar Figures",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_47",
+      "name": "Conversion of Fraction Decimals Percents",
+      "chapter": "Fractions",
+      "topic": "Conversion of Fraction Decimals Percents",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_48",
+      "name": "Equivalent Fractions",
+      "chapter": "Fractions",
+      "topic": "Equivalent Fractions",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_49",
+      "name": "Ordering Positive Decimals",
+      "chapter": "Decimals",
+      "topic": "Ordering Positive Decimals",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_50",
+      "name": "Ordering Fractions",
+      "chapter": "Fractions",
+      "topic": "Ordering Fractions",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_51",
+      "name": "Ordering Integers",
+      "chapter": "Number Systems",
+      "topic": "Ordering Integers",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_53",
+      "name": "Ordering Real Numbers",
+      "chapter": "Number Systems",
+      "topic": "Ordering Real Numbers",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_54",
+      "name": "Rounding",
+      "chapter": "General Mathematics",
+      "topic": "Rounding",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_58",
+      "name": "Addition Whole Numbers",
+      "chapter": "Number Systems",
+      "topic": "Addition Whole Numbers",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_61",
+      "name": "Division Fractions",
+      "chapter": "Fractions",
+      "topic": "Division Fractions",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_63",
+      "name": "Estimation",
+      "chapter": "General Mathematics",
+      "topic": "Estimation",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_64",
+      "name": "Fraction Of",
+      "chapter": "Fractions",
+      "topic": "Fraction Of",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_65",
+      "name": "Least Common Multiple",
+      "chapter": "General Mathematics",
+      "topic": "Least Common Multiple",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_67",
+      "name": "Multiplication Fractions",
+      "chapter": "Fractions",
+      "topic": "Multiplication Fractions",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_69",
+      "name": "Multiplication Whole Numbers",
+      "chapter": "Number Systems",
+      "topic": "Multiplication Whole Numbers",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_70",
+      "name": "Percent Of",
+      "chapter": "Percentages",
+      "topic": "Percent Of",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_74",
+      "name": "Subtraction Whole Numbers",
+      "chapter": "Number Systems",
+      "topic": "Subtraction Whole Numbers",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_75",
+      "name": "Square Root",
+      "chapter": "General Mathematics",
+      "topic": "Square Root",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_77",
+      "name": "Finding Percents",
+      "chapter": "Percentages",
+      "topic": "Finding Percents",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_79",
+      "name": "Proportion",
+      "chapter": "Ratios & Proportions",
+      "topic": "Proportion",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_80",
+      "name": "Scale Factor",
+      "chapter": "Algebra",
+      "topic": "Scale Factor",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_81",
+      "name": "Unit Rate",
+      "chapter": "General Mathematics",
+      "topic": "Unit Rate",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_82",
+      "name": "Scientific Notation",
+      "chapter": "General Mathematics",
+      "topic": "Scientific Notation",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_83",
+      "name": "Divisibility Rules",
+      "chapter": "General Mathematics",
+      "topic": "Divisibility Rules",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_84",
+      "name": "Prime Number",
+      "chapter": "Number Systems",
+      "topic": "Prime Number",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_85",
+      "name": "Absolute Value",
+      "chapter": "General Mathematics",
+      "topic": "Absolute Value",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_86",
+      "name": "Exponents",
+      "chapter": "Exponents & Powers",
+      "topic": "Exponents",
+      "difficulty": 2,
+      "bloom_level": "apply",
+      "mastery": 1.0
+    },
+    {
+      "id": "concept_92",
+      "name": "Pattern Finding ",
+      "chapter": "General Mathematics",
+      "topic": "Pattern Finding ",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_110",
+      "name": "D.4.8-understanding-concept-of-probabilities",
+      "chapter": "General Mathematics",
+      "topic": "D.4.8-understanding-concept-of-probabilities",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_163",
+      "name": "Absolute Value",
+      "chapter": "General Mathematics",
+      "topic": "Absolute Value",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_165",
+      "name": "Algebraic Simplification",
+      "chapter": "Algebra",
+      "topic": "Algebraic Simplification",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_166",
+      "name": "Algebraic Solving",
+      "chapter": "Algebra",
+      "topic": "Algebraic Solving",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_190",
+      "name": "Intercept",
+      "chapter": "General Mathematics",
+      "topic": "Intercept",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_193",
+      "name": "Linear Equations",
+      "chapter": "Equations",
+      "topic": "Linear Equations",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_203",
+      "name": "Percent Discount",
+      "chapter": "Percentages",
+      "topic": "Percent Discount",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_204",
+      "name": "Percents",
+      "chapter": "Percentages",
+      "topic": "Percents",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_276",
+      "name": "Multiplication and Division Positive Decimals",
+      "chapter": "Decimals",
+      "topic": "Multiplication and Division Positive Decimals",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_277",
+      "name": "Addition and Subtraction Integers",
+      "chapter": "Number Systems",
+      "topic": "Addition and Subtraction Integers",
+      "difficulty": 3,
+      "bloom_level": "apply",
+      "mastery": 1.0
+    },
+    {
+      "id": "concept_278",
+      "name": "Addition and Subtraction Positive Decimals",
+      "chapter": "Decimals",
+      "topic": "Addition and Subtraction Positive Decimals",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_279",
+      "name": "Multiplication and Division Integers",
+      "chapter": "Number Systems",
+      "topic": "Multiplication and Division Integers",
+      "difficulty": 2,
+      "bloom_level": "apply",
+      "mastery": 0.9999856353097094
+    },
+    {
+      "id": "concept_280",
+      "name": "Addition and Subtraction Fractions",
+      "chapter": "Fractions",
+      "topic": "Addition and Subtraction Fractions",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_290",
+      "name": "Reflection",
+      "chapter": "General Mathematics",
+      "topic": "Reflection",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_292",
+      "name": "Rotations",
+      "chapter": "General Mathematics",
+      "topic": "Rotations",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_293",
+      "name": "Translations",
+      "chapter": "General Mathematics",
+      "topic": "Translations",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_294",
+      "name": "Area Irregular Figure",
+      "chapter": "Geometry",
+      "topic": "Area Irregular Figure",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_295",
+      "name": "Area Parallelogram",
+      "chapter": "Geometry",
+      "topic": "Area Parallelogram",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_296",
+      "name": "Area Rectangle",
+      "chapter": "Geometry",
+      "topic": "Area Rectangle",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_297",
+      "name": "Area Trapezoid",
+      "chapter": "Geometry",
+      "topic": "Area Trapezoid",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_298",
+      "name": "Area Triangle",
+      "chapter": "Geometry",
+      "topic": "Area Triangle",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_299",
+      "name": "Surface Area Cylinder",
+      "chapter": "Geometry",
+      "topic": "Surface Area Cylinder",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_301",
+      "name": "Surface Area Rectangular Prism",
+      "chapter": "Geometry",
+      "topic": "Surface Area Rectangular Prism",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_303",
+      "name": "Volume Cylinder",
+      "chapter": "Geometry",
+      "topic": "Volume Cylinder",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_307",
+      "name": "Volume Rectangular Prism",
+      "chapter": "Geometry",
+      "topic": "Volume Rectangular Prism",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_308",
+      "name": "Volume Sphere",
+      "chapter": "Geometry",
+      "topic": "Volume Sphere",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_309",
+      "name": "Order of Operations +,-,/,* () positive reals",
+      "chapter": "Ratios & Proportions",
+      "topic": "Order of Operations +,-,/,* () positive reals",
+      "difficulty": 4,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_310",
+      "name": "Order of Operations All",
+      "chapter": "Ratios & Proportions",
+      "topic": "Order of Operations All",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_311",
+      "name": "Equation Solving Two or Fewer Steps",
+      "chapter": "Equations",
+      "topic": "Equation Solving Two or Fewer Steps",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_312",
+      "name": "Equation Solving More Than Two Steps",
+      "chapter": "Equations",
+      "topic": "Equation Solving More Than Two Steps",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_314",
+      "name": "Angles - Obtuse, Acute, and Right",
+      "chapter": "Geometry",
+      "topic": "Angles - Obtuse, Acute, and Right",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_317",
+      "name": "Greatest Common Factor",
+      "chapter": "Algebra",
+      "topic": "Greatest Common Factor",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_321",
+      "name": "Computation with Real Numbers",
+      "chapter": "Number Systems",
+      "topic": "Computation with Real Numbers",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_322",
+      "name": "Write Linear Equation from Ordered Pairs",
+      "chapter": "Equations",
+      "topic": "Write Linear Equation from Ordered Pairs",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_323",
+      "name": "Write Linear Equation from Situation",
+      "chapter": "Equations",
+      "topic": "Write Linear Equation from Situation",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_324",
+      "name": "Recognize Linear Pattern",
+      "chapter": "General Mathematics",
+      "topic": "Recognize Linear Pattern",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_325",
+      "name": "Write Linear Equation from Graph",
+      "chapter": "Equations",
+      "topic": "Write Linear Equation from Graph",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_331",
+      "name": "Finding Slope From Situation",
+      "chapter": "General Mathematics",
+      "topic": "Finding Slope From Situation",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_333",
+      "name": "Finding Slope From Equation",
+      "chapter": "Equations",
+      "topic": "Finding Slope From Equation",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_340",
+      "name": "Distributive Property",
+      "chapter": "General Mathematics",
+      "topic": "Distributive Property",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_346",
+      "name": "Polynomial Factors",
+      "chapter": "Algebra",
+      "topic": "Polynomial Factors",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_348",
+      "name": "Recognize Quadratic Pattern",
+      "chapter": "General Mathematics",
+      "topic": "Recognize Quadratic Pattern",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_350",
+      "name": "Solving Systems of Linear Equations",
+      "chapter": "Equations",
+      "topic": "Solving Systems of Linear Equations",
+      "difficulty": 5,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_362",
+      "name": "Parts of a Polyomial, Terms, Coefficient, Monomial, Exponent, Variable",
+      "chapter": "Algebra",
+      "topic": "Parts of a Polyomial, Terms, Coefficient, Monomial, Exponent, Variable",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_368",
+      "name": "Solving for a variable",
+      "chapter": "Algebra",
+      "topic": "Solving for a variable",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_371",
+      "name": "Simplifying Expressions positive exponents",
+      "chapter": "Algebra",
+      "topic": "Simplifying Expressions positive exponents",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_375",
+      "name": "Solving Inequalities",
+      "chapter": "General Mathematics",
+      "topic": "Solving Inequalities",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    },
+    {
+      "id": "concept_378",
+      "name": "Solving Systems of Linear Equations by Graphing",
+      "chapter": "Equations",
+      "topic": "Solving Systems of Linear Equations by Graphing",
+      "difficulty": 3,
+      "bloom_level": "apply"
+    }
+  ],
+  "edges": [
+    {
+      "source": "concept_1",
+      "target": "concept_12",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_1",
+      "target": "concept_13",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_1",
+      "target": "concept_17",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_1",
+      "target": "concept_18",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_12",
+      "target": "concept_13",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_12",
+      "target": "concept_17",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_12",
+      "target": "concept_18",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_13",
+      "target": "concept_17",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_13",
+      "target": "concept_18",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_17",
+      "target": "concept_18",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_2",
+      "target": "concept_4",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_51",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_53",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_58",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_69",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_74",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_84",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_277",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_5",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_53",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_58",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_69",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_74",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_84",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_277",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_51",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_53",
+      "target": "concept_58",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_53",
+      "target": "concept_69",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_53",
+      "target": "concept_74",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_53",
+      "target": "concept_84",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_53",
+      "target": "concept_277",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_53",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_53",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_58",
+      "target": "concept_69",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_58",
+      "target": "concept_74",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_58",
+      "target": "concept_84",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_58",
+      "target": "concept_277",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_58",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_58",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_69",
+      "target": "concept_74",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_69",
+      "target": "concept_84",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_69",
+      "target": "concept_277",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_69",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_69",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_74",
+      "target": "concept_84",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_74",
+      "target": "concept_277",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_74",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_74",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_84",
+      "target": "concept_277",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_84",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_84",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_277",
+      "target": "concept_279",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_277",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_279",
+      "target": "concept_321",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_9",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_10",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_11",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_14",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_15",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_16",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_24",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_8",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_10",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_11",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_14",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_15",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_16",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_24",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_9",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_11",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_14",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_15",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_16",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_24",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_10",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_14",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_15",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_16",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_24",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_11",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_15",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_16",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_24",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_14",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_16",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_24",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_15",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_24",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_16",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_27",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_24",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_32",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_27",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_34",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_32",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_35",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_34",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_40",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_35",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_46",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_40",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_54",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_46",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_63",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_54",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_65",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_63",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_75",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_65",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_81",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_75",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_82",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_81",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_83",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_82",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_85",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_83",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_92",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_85",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_110",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_92",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_163",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_110",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_190",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_163",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_290",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_190",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_290",
+      "target": "concept_292",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_290",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_290",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_290",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_290",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_290",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_290",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_292",
+      "target": "concept_293",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_292",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_292",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_292",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_292",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_292",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_293",
+      "target": "concept_324",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_293",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_293",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_293",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_293",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_324",
+      "target": "concept_331",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_324",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_324",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_324",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_331",
+      "target": "concept_340",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_331",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_331",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_340",
+      "target": "concept_348",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_340",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_348",
+      "target": "concept_375",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_22",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_25",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_26",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_39",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_42",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_294",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_295",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_21",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_25",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_26",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_39",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_42",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_294",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_295",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_22",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_26",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_39",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_42",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_294",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_295",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_25",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_39",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_42",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_294",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_295",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_26",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_42",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_294",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_295",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_39",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_294",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_295",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_42",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_295",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_294",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_296",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_295",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_297",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_296",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_297",
+      "target": "concept_298",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_297",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_297",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_297",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_297",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_297",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_297",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_298",
+      "target": "concept_299",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_298",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_298",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_298",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_298",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_298",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_299",
+      "target": "concept_301",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_299",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_299",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_299",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_299",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_301",
+      "target": "concept_303",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_301",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_301",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_301",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_303",
+      "target": "concept_307",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_303",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_303",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_307",
+      "target": "concept_308",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_307",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_308",
+      "target": "concept_314",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_47",
+      "target": "concept_48",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_47",
+      "target": "concept_50",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_47",
+      "target": "concept_61",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_47",
+      "target": "concept_64",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_47",
+      "target": "concept_67",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_47",
+      "target": "concept_280",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_48",
+      "target": "concept_50",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_48",
+      "target": "concept_61",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_48",
+      "target": "concept_64",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_48",
+      "target": "concept_67",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_48",
+      "target": "concept_280",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_50",
+      "target": "concept_61",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_50",
+      "target": "concept_64",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_50",
+      "target": "concept_67",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_50",
+      "target": "concept_280",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_61",
+      "target": "concept_64",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_61",
+      "target": "concept_67",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_61",
+      "target": "concept_280",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_64",
+      "target": "concept_67",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_64",
+      "target": "concept_280",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_67",
+      "target": "concept_280",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_49",
+      "target": "concept_276",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_49",
+      "target": "concept_278",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_276",
+      "target": "concept_278",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_70",
+      "target": "concept_77",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_70",
+      "target": "concept_203",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_70",
+      "target": "concept_204",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_77",
+      "target": "concept_203",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_77",
+      "target": "concept_204",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_203",
+      "target": "concept_204",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_79",
+      "target": "concept_309",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_79",
+      "target": "concept_310",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_309",
+      "target": "concept_310",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_80",
+      "target": "concept_165",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_80",
+      "target": "concept_166",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_80",
+      "target": "concept_317",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_80",
+      "target": "concept_346",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_80",
+      "target": "concept_362",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_80",
+      "target": "concept_368",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_80",
+      "target": "concept_371",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_165",
+      "target": "concept_166",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_165",
+      "target": "concept_317",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_165",
+      "target": "concept_346",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_165",
+      "target": "concept_362",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_165",
+      "target": "concept_368",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_165",
+      "target": "concept_371",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_166",
+      "target": "concept_317",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_166",
+      "target": "concept_346",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_166",
+      "target": "concept_362",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_166",
+      "target": "concept_368",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_166",
+      "target": "concept_371",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_317",
+      "target": "concept_346",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_317",
+      "target": "concept_362",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_317",
+      "target": "concept_368",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_317",
+      "target": "concept_371",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_346",
+      "target": "concept_362",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_346",
+      "target": "concept_368",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_346",
+      "target": "concept_371",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_362",
+      "target": "concept_368",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_362",
+      "target": "concept_371",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_368",
+      "target": "concept_371",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_311",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_312",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_322",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_323",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_325",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_333",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_350",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_193",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_311",
+      "target": "concept_312",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_311",
+      "target": "concept_322",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_311",
+      "target": "concept_323",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_311",
+      "target": "concept_325",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_311",
+      "target": "concept_333",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_311",
+      "target": "concept_350",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_311",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_312",
+      "target": "concept_322",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_312",
+      "target": "concept_323",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_312",
+      "target": "concept_325",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_312",
+      "target": "concept_333",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_312",
+      "target": "concept_350",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_312",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_322",
+      "target": "concept_323",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_322",
+      "target": "concept_325",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_322",
+      "target": "concept_333",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_322",
+      "target": "concept_350",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_322",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_323",
+      "target": "concept_325",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_323",
+      "target": "concept_333",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_323",
+      "target": "concept_350",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_323",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_325",
+      "target": "concept_333",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_325",
+      "target": "concept_350",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_325",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_333",
+      "target": "concept_350",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_333",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    },
+    {
+      "source": "concept_350",
+      "target": "concept_378",
+      "type": "related",
+      "weight": 0.7
+    }
+  ],
+  "metadata": {
+    "total_concepts": 103,
+    "total_edges": 850,
+    "chapters": [
+      "Graphing",
+      "Percentages",
+      "Fractions",
+      "Equations",
+      "Decimals",
+      "Geometry",
+      "General Mathematics",
+      "Probability & Statistics",
+      "Algebra",
+      "Number Systems",
+      "Exponents & Powers",
+      "Ratios & Proportions"
+    ]
+  }
+}
